@@ -1,0 +1,2 @@
+Order,Mask_Ratio,Eval_Region_Pct,Eval_Points,Case1_Loss,Case2_Loss,Loss_Ratio,Case1_Mean_Error,Case1_Std_Error,Case2_Mean_Error,Case2_Std_Error,Improvement_Rate,Case1_Input_Dim,Case2_Input_Dim
+5,0.2,60.0,60,0.0005478782247034056,0.0003541096678721563,0.6463291510880066,0.030914865,0.030939592,0.028402634,0.017321415,8.126289,100,60

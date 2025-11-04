@@ -1,0 +1,2 @@
+Smoothness,Mask_Ratio,Eval_Region_Pct,Eval_Points,Case1_Loss,Case2_Loss,Loss_Ratio,Case1_Mean_Error,Case1_Std_Error,Case2_Mean_Error,Case2_Std_Error,Improvement_Rate,Case1_Input_Dim,Case2_Input_Dim
+3,0.2,60.0,60,6.962995697297932e-05,9.718466753838584e-05,1.3957306849421067,0.036031988,0.035634737,0.07118938,0.09716298,-97.57273,100,60
